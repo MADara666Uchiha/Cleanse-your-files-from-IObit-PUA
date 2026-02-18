@@ -1,1 +1,1 @@
-excess file/folder deletion on IObit PUA
+excess file/folder + registry key deletion on IObit PUA
